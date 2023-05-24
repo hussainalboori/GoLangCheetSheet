@@ -1,4 +1,4 @@
-Certainly! Below is a cheat sheet for the `io/ioutil` package in Go, which provides utility functions for I/O operations.
+Below is a cheat sheet for the `io/ioutil` package in Go, which provides utility functions for I/O operations.
 
 Import statement:
 ```go
