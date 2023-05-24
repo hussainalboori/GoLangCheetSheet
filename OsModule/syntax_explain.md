@@ -1,4 +1,4 @@
-Certainly! Here's an explanation of each syntax used in the `os` module cheat sheet:
+Here's an explanation of each syntax used in the `os` module cheat sheet:
 
 1. `os.Getwd()`:
    - This function returns the current working directory as a string.
