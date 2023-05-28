@@ -6,6 +6,8 @@ import (
 )
 
 func main() {
+
+
 	// Contains
 	fmt.Println(strings.Contains("hello world", "world")) // true
 	fmt.Println(strings.Contains("hello world", "foo"))   // false
